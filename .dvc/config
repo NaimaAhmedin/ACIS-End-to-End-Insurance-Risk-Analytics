@@ -1,0 +1,4 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\naima\Desktop\10Academy\KAIM8\ACIS-End-to-End-Insurance-Risk-Analytics\dvc_storage

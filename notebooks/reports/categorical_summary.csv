@@ -1,0 +1,5 @@
+,Citizenship,LegalType,Title,Language,Bank,AccountType,MaritalStatus,Country,PostalCode,ItemType,bodytype,AlarmImmobiliser,TrackingDevice,NewVehicle,TermFrequency,ExcessSelected,CoverGroup,Section,Product
+count,1000024,1000024,1000024,1000024,854063,959792,991765,1000024,1000024,1000024,999472,1000024,1000024,846729,1000024,1000024,1000024,1000024,1000024
+unique,4,6,5,1,11,3,3,1,888,1,13,2,2,2,2,13,14,5,4
+top,  ,Individual,Mr,English,First National Bank,Current account,Not specified,South Africa,2000,Mobility - Motor,B/S,Yes,No,More than 6 months,Monthly,No excess,Comprehensive - Taxi,Motor Comprehensive,Mobility Commercial Cover: Monthly
+freq,895136,911855,933481,1000024,260811,597938,986134,1000024,133498,1000024,844326,999787,656613,845149,999480,791176,824067,828068,914954
